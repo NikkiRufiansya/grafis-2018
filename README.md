@@ -358,8 +358,8 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 
 ### Members
 
-* (151111097) Nikki Rufiansya
-* (151111035) Ashlih Q.A
+* (151111035) Nikki Rufiansya
+* (151111097) Ashlih Q.A
 * (151111005) Dicky Irfan
 
 ### Topic & Description
@@ -367,7 +367,7 @@ Pada projek ini akan ditampilkan perputaran planet-planet terhadap matahari deng
 * Sun, earth & moon
 
 ### Github Repository
-* [https://github.com/NikkiRufiansya/PemprogramanGrafisTeamNikki](https://github.com/NikkiRufiansya/PemprogramanGrafisTeamNikki)
+* [https://github.com/NikkiRufiansya/PemprogramGrafisTeamNikki](https://github.com/NikkiRufiansya/PemprogramGrafisTeamNikki)
 
 ## Group XXVI
 
